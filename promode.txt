@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is a comprehensive guide to enabling Pro freatures
-=======
-this is a comprehensive guide to enabling pro freatures .
->>>>>>> 7cf3d72f62fcfb548a0d3211923ac188ed9213f5
